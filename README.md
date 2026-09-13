@@ -56,7 +56,7 @@ Clean Architecture | Onion Architecture | CQRS | MediatR | Vertical Slice | SOLI
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-333333?style=plastic\&logo=dotnet\&logoColor=white)
 ![FluentValidation](https://img.shields.io/badge/FluentValidation-512BD4?style=plastic\&logo=dotnet\&logoColor=white)
 ![AutoMapper](https://img.shields.io/badge/AutoMapper-512BD4?style=plastic\&logo=dotnet\&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=plastic\&logo=swagger\&logoColor=white)
+
 
 ### Frontend
 
@@ -75,6 +75,7 @@ Clean Architecture | Onion Architecture | CQRS | MediatR | Vertical Slice | SOLI
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic\&logo=github\&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic\&logo=visualstudio\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic\&logo=postman\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=plastic\&logo=swagger\&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=plastic\&logo=jira\&logoColor=white)
 
 ---
